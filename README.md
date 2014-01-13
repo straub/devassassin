@@ -1,4 +1,4 @@
 devassassin
 ===========
 
-One blaster, one dart, one target.
+One blaster, one dart, one victor.
